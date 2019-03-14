@@ -1,5 +1,6 @@
 # Simulacion-de-sistemas-economicos
-Trabajo final del curso de posgrado de "Sistemas Económicos"
+Trabajo final del curso de posgrado de "Sistemas Económicos" 
+Autores : Gutierrez Emiliano y Reyes Mauro
 
 # En la carpeta script se encuentra el código a con el cual se generaron las matrices 2005 del archivo MIP_97_05.xlsx
 # La informacion solo  de las MIP 1997 son descargables en 
